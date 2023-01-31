@@ -1,2 +1,2 @@
 # Minesweeper
-An simple implementation of minesweeper, coded in python
+An simple implementation of minesweeper
