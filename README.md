@@ -1,5 +1,5 @@
 # Minesweeper
-An simple yet fun minesweeper game to be played in the terminal. My very first coding project at KTH.
+A simple yet fun minesweeper game to be played in the terminal. My very first coding project at KTH.
 
 <img
   src="/Minesweeper.png"
