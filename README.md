@@ -4,4 +4,4 @@ An simple, yet fun implementation of minesweeper. My very first coding project a
 <img
   src="/Minesweeper.png"
   alt="Minesweeper"
-  style="width:200px; padding-top:2px;">
+  style="width:400px; padding-top:2px;">
